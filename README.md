@@ -6,7 +6,9 @@ Welcome to the Dad Jokes Generator! This web application fetches dad jokes from 
 
 ## Demo
 View live [Dad Jokes Generator](https://joke-generator-bysaiful.netlify.app/)
+
 ## Preview
+![image](https://github.com/saifulislam05/Dad-Joke-Generator/assets/73392705/2ee8574a-bd9a-4ae8-bda2-34715e772ac4)
 
 ## Features
 
