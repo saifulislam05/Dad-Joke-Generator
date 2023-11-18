@@ -1,23 +1,21 @@
-# Image Finder App
+# Dad Jokes Generator
 
-An application that allows users to search for images using the Unsplash API.
+## Description
+
+Welcome to the Dad Jokes Generator! This web application fetches dad jokes from an external API and displays them in a creative and humorous way. Users can click the "Generate Joke" button to get a new joke, share their favorite jokes, and even toggle between light and dark themes.
 
 ## Demo
-
-View live [Image Finder](https://image-finder-bysaiful.netlify.app/)
+View live [Dad Jokes Generator](https://joke-generator-bysaiful.netlify.app/)
+## Preview
 
 ## Features
 
-- **Image Search**: Users can enter a search term and retrieve relevant images from Unsplash.
-- **Dynamic Display**: Images are dynamically displayed as search results in a visually appealing grid.
-- **Show More**: Users can load more images with the "Show More" button.
-- **Loading Indicator**: A loading indicator is displayed while images are being fetched.
-- **Responsive Design**: The app is designed to be responsive and work well on various screen sizes.
+- **Generate Joke Button:** Click the "Generate Joke" button to fetch and display a new dad joke.
+- **Share Button:** Share your favorite jokes with friends by clicking the share button.
+- **Theme Changer:** Toggle between light and dark themes for a personalized experience.
 
 ## Technologies Used
-- HTML
-- CSS (Tailwind CSS)
-- JavaScript
 
-## Acknowledgements
-- [Unsplash](https://unsplash.com/) for providing the API.
+- HTML
+- CSS (Tailwind CSS for styling)
+- JavaScript
